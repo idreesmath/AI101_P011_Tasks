@@ -1,3 +1,6 @@
+### Name: Muhammad Idrees
+### Panaversity ID: @idrees448-77qh
+
 # AI Prompting & LLM Hands-On Assignment
 
 This repository contains the deliverables for the assignment focused on exploring AI prompting, iterative development, and Large Language Models (LLMs) through hands-on activities, as part of the Panaversity AI-101 coursework.

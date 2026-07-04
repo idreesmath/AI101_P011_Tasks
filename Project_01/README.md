@@ -27,7 +27,7 @@ Completed the AI prompting lab exercises and documented the learning process.
 ### Task 2 — AI Generated Snake Game
 Built a Snake Game using AI-assisted/iterative prompting.
 
-- 🎮 **Deployed Game Link:** [Play Snake Game](https://snake-game-375070032545.asia-southeast1.run.app)
+- 🎮 **Deployed Game Link:** [Play Snake Game](https://snake-game-idrees.vercel.app)
 - **Process covered in report:**
   - Prompt iterations used during development
   - What worked well / what didn't
@@ -59,7 +59,7 @@ Used an LLM to analyze the Orientation Lecture (YouTube) and generate presentati
 | Task | Deliverable | Link/File |
 |------|-------------|-----------|
 | Task 1 | Prompting Report | `Task 1 - Lab Document Practice & Prompting Report.docx` |
-| Task 2 | Snake Game | [Live Demo](https://snake-game-375070032545.asia-southeast1.run.app) |
+| Task 2 | Snake Game | [Live Demo](https://snake-game-idrees.vercel.app/) |
 | Task 3 | Lecture Slides Report | `Task 3 - Lecture Slide Generation Using LLMs.pdf` |
 
 ## 🛠️ Tools & Technologies Used
